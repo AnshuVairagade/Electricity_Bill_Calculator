@@ -1,17 +1,5 @@
 This code is 
 
-
-
-❤️Example:
-Suppose the rate of electricity bill is as followed:
-
-For 1 to 50 units – 30Rs/unit
-For 50 to 100 units – 35Rs/unit
-For 100 to 150 units – 40Rs/unit
-For 150 units and above – 50Rs/unit
-So calculate the electricity bill for 300 units?
-
-
 👻 Program Explanation 👻
 1. Use the scanf() function to get user input for units and store it in units variable.
 2. Create a function named electricity_bill and passed the parameter units entered by the user.
@@ -20,10 +8,25 @@ So calculate the electricity bill for 300 units?
 
 
 😍 Runtime Test Cases 😍
-Testcase 1: In this case, we input “300” as units to calculate the electricity bill. (1 to 50 units – 30Rs/unit, 50 to 100 units – 35Rs/unit, 100 to 150 units – 40Rs/unit and 150 units and above – 50Rs/unit)
-Enter the units: 300
-The electricity bill is: 12750
 
-Testcase 2: In this case, we input “180” as units to calculate the electricity bill. (1 to 50 units – 30Rs/unit, 50 to 100 units – 35Rs/unit, 100 to 150 units – 40Rs/unit and 150 units and above – 50Rs/unit)
-Enter the units: 180
-The electricity bill is: 6750
+Enter the number of customers: 1
+Enter details of customer 1 
+Customer ID: 1
+Units Consumed: 56
+Customer name: anshu
+********************
+| Electricity Bill |
+********************
+
+Billing unit : 3956/HINGANA S/DN/BUTIBORI 
+Pole NO. = RK-15
+
+Fixed tax = Rs. 105.00
+Vehicle tax = Rs. 35
+-------------------------------------------------------
+Name of customer : anshu 
+Customer ID : 1 
+Unit consumed : 56.00 
+Bill amount = 196.00
+-------------------------------------------------------
+*********************************************************
