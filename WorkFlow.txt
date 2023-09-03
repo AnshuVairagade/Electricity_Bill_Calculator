@@ -5,3 +5,4 @@ $ git commit
 $ git remote add origin {repo link}
 $ git remote -v
 $ git branch -M main
+$ git psuh origin main
